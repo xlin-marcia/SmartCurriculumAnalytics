@@ -1,4 +1,4 @@
-# SmartCurriculumAnalytics
+# Smart Curriculum Analytics
 
 **Overview**
 
